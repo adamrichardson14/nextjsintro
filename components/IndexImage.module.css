@@ -1,0 +1,16 @@
+.imageStyle {
+  object-fit: cover;
+  position: absolute;
+}
+
+.container {
+  display: flex;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.imageDiv {
+  position: relative;
+  width: 50%;
+  height: 400px;
+}
